@@ -67,27 +67,11 @@ int main(){
     first_cantor->next_set=NULL;
 
 
-   // 	while(choice){
+
    		printf("enter the number of level you want in cantor\n");
    		scanf("%d",&number);
    		create_node(first_cantor,number);
 
-   // 		printf("you have following choices enter -1 if you want to see choices and choose one\n");
-   //      scanf("%d",&fetcher);
-   //      if(fetcher == -1){
-   //      	printf("1. upgradeto\n2. degradeto\n3. getPresentLevel\n4. getValueAtIndex\n5. printAllList\n6. printAsTreeUptoLevel \n");
-   //      }
-   //      else{
-   //  switch(fetcher){
-   //      case 1:
-
-
-
-   //  	}
-   // 	}
-    
-
-   // }
 
 return 0;
 
